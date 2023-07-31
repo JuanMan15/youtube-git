@@ -1,0 +1,98 @@
+commit f17db6b68441f1a254f76c5f91077133611a4aa1
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Sat Jul 29 15:03:57 2023 -0700
+
+    Agregando 2 parrafos
+
+commit 75a4a09d5dff34e07b84d8d2f90e44e67dfe68f5
+Merge: 1afa6dc f5e8da4
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Sat Jul 29 15:02:10 2023 -0700
+
+     Resolviendo conflicto en estaciones del anio y  fechas de inicio
+
+commit 1afa6dcc3382dd14dcae833e4cd44d22d1adc12a
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Sat Jul 29 14:49:09 2023 -0700
+
+    Agregando estaciones del anio con la fecha de inicio
+
+commit f5e8da4f4697897db1328e70bf09f87a1ef777ab
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Sat Jul 29 14:49:09 2023 -0700
+
+    agregando estaciones del año
+
+commit a91e0355d2a664048166923ae0dfe001be9649d7
+Merge: 60a2c0c 983a61e
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Fri Jul 28 15:38:09 2023 -0700
+
+    resolviendo conflito merge main/html en el documento index.html
+
+commit 983a61eb488b60f2c8305b9374b8c4af86317a98
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Fri Jul 28 15:34:16 2023 -0700
+
+    Agregando index.js al index.html
+
+commit 60a2c0c80e8d19941a795bae6fdf83023169822a
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Fri Jul 28 15:30:48 2023 -0700
+
+    Agregando style.css al index.html
+
+commit 9638d10fde19cde71e480f12022a461b241b589f
+Merge: 9b8e064 1cedc89
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Fri Jul 28 14:21:46 2023 -0700
+
+    Merge branch 'js'
+
+commit 1cedc899a11b7fae47c49788f31a2a9df5bdbc4a
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Fri Jul 28 14:18:09 2023 -0700
+
+    Subiendo js
+
+commit 9b8e064b04fe4f888088ef80ccf888bc8d0952bf
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Fri Jul 28 14:14:50 2023 -0700
+
+    Agregando hoja de estilos CSS
+
+commit ab3b06928c7caaffbca3e9302a650b62aa947c40
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Fri Jul 28 14:11:17 2023 -0700
+
+     Creando Archivo Index.html
+
+commit cc9aa39e8fed3d2ca732b21fcd28ac35a55a4c30
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Fri Jul 28 13:59:11 2023 -0700
+
+    ignorando archivos .exe
+
+commit d38639d3e02dafa5d28e14f9de75a1a988882965
+Author: JuanMan <120060766+JuanMan15@users.noreply.github.com>
+Date:   Fri Jul 28 13:32:25 2023 -0700
+
+    Creando licencia del repositorio
+
+commit 7c1e7af157b7a1d232cf300346bfdbc06f76fc26
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Thu Jul 27 16:01:01 2023 -0700
+
+     Agregando mas contenido al readme
+
+commit 6b7421fd47df1d290082ecbfb4ef9d15e7a57106
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Thu Jul 27 15:31:08 2023 -0700
+
+    agregando contenido inicial al readme
+
+commit ab1efcc12e6ad6fb4a1491733029d557faf42a87
+Author: JuanMan <juanmanuel20207@gmail.com>
+Date:   Thu Jul 27 15:26:21 2023 -0700
+
+    Primer Commit 💯
